@@ -346,7 +346,7 @@ const Portfolio = () => {
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-300 mb-4 font-light">
-            FRONTEND & UI UX DEVELOPER
+            FRONTEND & UI UX DESIGNER
           </p>
 
           <p className="text-lg text-gray-400 mb-12 max-w-2xl mx-auto leading-relaxed">
